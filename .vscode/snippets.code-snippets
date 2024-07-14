@@ -1,0 +1,11 @@
+{
+    "Import ipdb and set a breakpoint": {
+        "prefix": "pdb",
+        "body": [
+            "import ipdb",
+            "$1",
+            "ipdb.set_trace()"
+        ],
+        "description": "Insert ipdb import and set a breakpoint"
+    }
+}

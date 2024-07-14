@@ -1,0 +1,14 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "explorer.compactFolders": true,
+    "window.zoomLevel": 1,
+    "editor.acceptSuggestionOnEnter": "off",
+    "[python]": {
+      "editor.codeActionsOnSave": {
+        "source.organizeImports": "explicit",
+        "source.fixAll": "explicit"
+      },
+      "editor.defaultFormatter": "ms-python.black-formatter",
+    },
+    "editor.formatOnSave": true,
+  }
