@@ -19,6 +19,7 @@ django-mptt = "^0.16.0"
 pillow = "^10.3.0"
 model-bakery = "^1.18.2"
 ipdb = "^0.13.13"
+celery = "^5.4.0"
 
 
 [build-system]
